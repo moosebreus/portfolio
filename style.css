@@ -41,7 +41,7 @@ color: #fff ;
 }
 
 .primary-text{
-color: #000;
+color: #323232;
 }
 
 .margin{
@@ -53,7 +53,7 @@ font-size: 18px;
 display: inline-block;
 padding: 0.5rem;
 margin: 0.5 0rem;
-background: blue;
+background: #323232;
 color: #fff;
 border-radius: 5px;
 border: none;
@@ -64,8 +64,8 @@ font-size: 18px;
 display: inline-block;
 padding: 0.3rem 0.5rem;
 margin: 0.5rem;
-border: blue solid;
-color: blue;
+border: #323232;
+color: #323232;
 border-radius: 5px;
 }
 
@@ -73,7 +73,7 @@ border-radius: 5px;
     position: fixed;
     width: 100%;
     padding: 1rem;
-    background: #309b84;
+    background: #DDD0C8;
     }
     
     #navbar .container{
@@ -106,7 +106,7 @@ border-radius: 5px;
 
 #home {
         display: flex;
-        background: url("https://wallpaperaccess.com/full/19034.jpg") no-repeat center;
+        background: url("#") no-repeat center;
         height: 100vh;
         min-height: 500px;
         }
@@ -123,7 +123,7 @@ border-radius: 5px;
         #home .home-content .text-2{
         font-size: 65px;
         font-weight: 500;
-        margin: 1rem;
+        margin: 1.6rem;
         }
         
         #home .home-content .text-3{
@@ -132,7 +132,7 @@ border-radius: 5px;
         }
         
         #home .home-content .text-3 span{
-        color: #ffffff;
+        color: #323232;
         font-weight: 600;
         }
         
